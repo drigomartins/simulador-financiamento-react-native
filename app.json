@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "simulador-emprestimo-react-native",
-    "slug": "simulador-emprestimo-react-native",
+    "name": "Simulador de Financiamento",
+    "slug": "simulador-financiamento-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +20,12 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "simulador.emprestimo.react.native",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
