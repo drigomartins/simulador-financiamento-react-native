@@ -10,3 +10,5 @@ Para testar:
 yarn install
 yarn start
 ```
+[link do app na play store](https://play.google.com/store/apps/details?id=simulador.emprestimo.react.native)
+![image](https://user-images.githubusercontent.com/39654971/142057295-7e78fa63-bf08-48ce-98f7-b2024edfa663.png)
